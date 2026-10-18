@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="logo-on-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="logo-on-light.svg">
-      <img alt="EasyDP" src="logo-on-light.svg" width="64">
+      <img alt="EasyDP — Stay compliant. Stay trusted." src="logo-on-light.svg" height="48">
     </picture>
   </a>
 </p>
