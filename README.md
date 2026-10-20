@@ -8,7 +8,7 @@
   </a>
 </p>
 
-### EasyDP — DPDP Compliance Platform for Indian Businesses
+### EasyDP — DPDP Compliance Platform for Indian Businesses / Global Businesses Serving Indian Users
 
 **DPDP compliance, built for India.** Built for how India actually does business —
 your customer's language, your billing software, offline counters — not a GDPR tool
